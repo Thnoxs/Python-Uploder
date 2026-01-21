@@ -1,0 +1,19 @@
+.env
+.env.local
+node_modules/
+.DS_Store
+.vscode/
+.idea/
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
